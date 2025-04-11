@@ -1,4 +1,7 @@
-![example](/images/lake_drawing.jpg)
+***NOTE*** This repo is the modified version of this orignal repo: https://github.com/matteo-ronchetti/Pointillism
+
+
+![example](/images/lake_pointillism.jpg)
 
 # Pointillism
 This repo contains a python application that converts a photo to a pointillist painting.
